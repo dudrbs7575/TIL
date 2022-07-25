@@ -1,5 +1,5 @@
 # RDBMS vs NoSQL
-===============
+================
 
 ## RDBMS(Relational DataBase Management System)
 
