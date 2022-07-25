@@ -1,9 +1,9 @@
 RDBMS vs NoSQL
 ==============
 
-# RDBMS(Relational DataBase Management System)
+### RDBMS(Relational DataBase Management System)
 
-## 특징
+#### 특징
 
 > * 1.관계형 데이터베이스 관리 시스템.
 
@@ -15,9 +15,9 @@ RDBMS vs NoSQL
 
 
 
-# NoSQL(Not Only SQL)
+### NoSQL(Not Only SQL)
 
-## 특징
+#### 특징
 
 > * 1.관계형 데이터베이스와 반대되는 방식을 사용.
  
