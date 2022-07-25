@@ -5,7 +5,7 @@ RDBMS(Relational DataBase Management System)
 
 특징
 
-> 1.관계형 데이터베이스 관리 시스템.
+> * 1.관계형 데이터베이스 관리 시스템.
 
 > 2.정해진 스키마
 
